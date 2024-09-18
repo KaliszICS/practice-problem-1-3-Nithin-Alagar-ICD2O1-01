@@ -16,11 +16,11 @@ def q1():
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 def q2():
   #Write Assignment code here
-  print("hello ") 
-  print("world")
+  print("Hello ", end="") 
+  print("World")
 def q3():
   #Write Assignment code here
-  print("Man\nBoard\nMan Overboard")
+  print('"Man"\n"Board"\n"Man Overboard"')
 
 
 #Do not alter anything after this line
