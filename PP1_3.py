@@ -16,7 +16,8 @@ def q1():
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 def q2():
   #Write Assignment code here
-  print("hello ") #print("world")
+  print("hello ") 
+  print("world")
 def q3():
   #Write Assignment code here
   print("Man\nBoard\nMan Overboard")
