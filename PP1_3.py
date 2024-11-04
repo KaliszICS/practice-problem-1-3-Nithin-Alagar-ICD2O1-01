@@ -9,7 +9,7 @@ def q1():
   #Write Assignment code here
   #Remember your code must be indented once
   #a)
-  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * * \n * * * * * *\n* * * * * *\n")
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
   #b)
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
   #c)
