@@ -14,7 +14,7 @@ def q1():
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
   #c)
   print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
-  
+
 def q2():
   #Write Assignment code here
   print("Hello ", end="") 
