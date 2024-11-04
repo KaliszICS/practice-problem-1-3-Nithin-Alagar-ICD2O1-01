@@ -13,7 +13,7 @@ def q1():
   #b)
   print("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
   #c)
-  print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
+  print("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
   
 def q2():
   #Write Assignment code here
@@ -26,8 +26,8 @@ def q3():
 
 
 #Do not alter anything after this line
-'''
+
 q1()
 q2()
 q3()
-'''
+
